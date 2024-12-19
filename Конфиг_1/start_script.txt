@@ -1,0 +1,6 @@
+ls
+cd Stuff
+ls
+date
+touch new_file.txt
+rev Documents/creator.txt
